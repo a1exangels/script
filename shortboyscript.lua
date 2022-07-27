@@ -13,7 +13,7 @@ TODO
 repeat wait() until game:IsLoaded()
 
 -- Variables
-loadstring(game:HttpGet("https://raw.githubusercontent.com/a1exangels/script/main/bunnyrip.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/Library.lua"))()
 
 
 local GlobalTargetPlayer = nil
